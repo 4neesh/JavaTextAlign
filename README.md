@@ -1,9 +1,8 @@
-# JavaTextAlign
+# Java Text Align
 
-A short Java tool to read a text file and output it to different widths and alignments.
+A Java tool to output a text file to different widths and alignments.
 
-### Run the tool
+# Usage
 
 javac textAlign.java
-
 java textAlign {file_directory} {output_length} {text_alignment}
